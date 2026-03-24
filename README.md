@@ -25,7 +25,8 @@ The model is required to respond using a fixed tag schema (`<title>`, `<summary>
 
 ## Screenshot
 
-![Issue Agent - Prompt Injection Security PoC](./screenshot.png)
+<img width="1904" height="1685" alt="Screenshot 2026-03-23 at 22-28-38 Issue Agent - Prompt Injection Security PoC" src="https://github.com/user-attachments/assets/303c7efa-1ad3-42bc-ad31-f38b232c5f67" />
+
 
 ---
 
